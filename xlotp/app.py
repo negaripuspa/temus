@@ -55,7 +55,7 @@ l="tunggu ya.."
 
 def main_menu():
     clear()
-    slowprints(semut)
+    slowprints(temus)
     print(p+
         "   Tembak Xl Mode Otp" +
         "\nPilih Salah Satu:"
@@ -82,14 +82,14 @@ def exec_menu(choice):
 def menu_1():
     lodprint(l)
     clear()
-    print(semut)
+    print(temus)
     print(p+"Menu Beli Paket Xl")
     msisdn = str(input("Masukan No 62xx 👉 "))
     clear()
-    print(semut)
+    print(temus)
     po = str(input(p+"Masukan Kode Otp 👉 "))
     clear()
-    print(semut)
+    print(temus)
     print (p+" 1.Xtra Kuota 30GB Rp. 10.000")
     print (p+" 2.Xtra 3GB 30day 22.900 ")
     print (p+" 3.Xtra 5GB 30day 32.900 ")
