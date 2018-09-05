@@ -41,7 +41,7 @@ def lodprint(s):
         sys.stdout.flush()
         time.sleep(7.0/90)
 
-semut=(gt+"""
+temus=(gt+"""
 ####### ####### #     # #     #  #####
    #    #       ##   ## #     # #     #
    #    #       # # # # #     # #    
