@@ -133,7 +133,7 @@ def menu_1():
 def menu_2():
     lodprint(l)
     clear()
-    print(semut)
+    print(temus)
     print(p+"Minta Kode Otp")
     msisdn = str(input("Masukan Nomor 62xx👉"))
     lodprint(l)
