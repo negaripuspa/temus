@@ -154,7 +154,7 @@ def menu_4():
 
 def menu_3():
      lodprint(l)
-     os.system('cd ..;python dor.py')
+     os.system('cd ..;python x.py')
 
 
 def exit():
