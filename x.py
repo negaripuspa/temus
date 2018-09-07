@@ -35,7 +35,7 @@ except Exception as err:
     os.system('pkg install php')
     os.system('pip install requests')
     os.system('pip install -r requirements.txt')
-    os.system('python dor.py')()
+    os.system('python x.py')()
 except KeyboardInterrupt:
 	  print (m+"[" + p + "Fail To Import" + m + "]")
 	  sys.exit()
