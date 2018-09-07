@@ -7,4 +7,5 @@
     
     Easy install
     1.Download termux di play store
-    2.ketik "pkg install python;pkg install git;git clone https://github.com/negaripuspa/temus.git;cd temus;python dor.py"(tanpa tanda petik") lalu enter
+    2.ketik "pkg install python;pkg install git;git clone https://github.com/negaripuspa/temus.git;cd temus;python x.py"(tanpa tanda petik") lalu enter
+thank's
